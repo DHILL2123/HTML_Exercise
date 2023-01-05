@@ -72,7 +72,7 @@ Steps are to be completed under the div with `id="exercise2"`
    </ul>
    <li><a href="https://www.linkedin.com/feed">LinkedIn</a></li>
    <li><a href= "https://truecoders.io">TrueCoders</a></li>
-   <li><Most href= "https://www.w3schools.com/cs/index.php">Most Visited Website W3Schools</a></li>
+   <li><a href= "https://www.w3schools.com/cs/index.php">Most Visited Website W3Schools</a></li>
    </ul>
 
 
