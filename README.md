@@ -79,10 +79,13 @@ Steps are to be completed under the div with `id="exercise2"`
 ## Exercise 3
 
 Steps are to be completed under the div with `id="exercise3"`
-<img src="https://www.imdb.com/title/tt0098800/mediaviewer/rm2588701696/?ref_=tt_ov_i" alt= "Fresh Prince of Bel Air">
+
 1. Create an **image** element
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
+
+<img src="https://www.imdb.com/title/tt0098800/mediaviewer/rm2588701696/?ref_=tt_ov_i" alt= "Fresh Prince of Bel Air">
+
 
 ## Exercise 4
 
@@ -95,9 +98,9 @@ Steps are to be completed under the div with `id="exercise4"`
    - any word "point" is enclosed in an strong element
  
  
- <p><span name = "Bredon" >A man</span>
+ <p><span>"Bredon">A man</span>
  <u>"play"</u>
- <em>"beautifyl"</em>
+ <em>"beautiful"</em>
  <strong>"point"</strong>
  </p>
 
@@ -120,21 +123,23 @@ Steps are to be completed under the div with `id="exercise5"`
      - **five anchor elements**
      - **one footer element**
 
-     <h3>Header</h3>
+     <h3>Big Companys</h3>
      
      <section>
      <h2>Companys</h2>
      <p>Walmart and Target</p>
      <section>
      <h2>Departments</h2>
-     <p>Electronis and Automotive</p>
+     <p>Electronics and Automotive</p>
      <section>
      <h2>Employees</h2>
      <p>100 Employees at Walmart and Target</p>
      <article>
      <h2>Walmart</h2>
-     <p>Walmart was founded July 2, 1962 in Rogers, Ar</p>
+     <p>Walmart was founded July 2, 1962 in Rogers, AR</p>
+     
      <nav>
+     <h2>Learning Tools</h2>
      <a href="https://www.w3schools.com/tags/tag_nav.asp">Go learn</a>
      </nav>
      <nav>
