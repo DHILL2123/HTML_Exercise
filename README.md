@@ -39,7 +39,7 @@ Steps are to be completed under the div with `id="exercise2"`
 <ul>
    <li>Milk</li>
    <li>Eggs</li>
-   <li>Chese</li>
+   <li>Cheese</li>
    </ul>
 
 2. Create three **list item** elements nested inside of the **unordered list** that your just created
@@ -48,7 +48,7 @@ Steps are to be completed under the div with `id="exercise2"`
    </ul>
    <li>Milk</li>
    <li>Eggs</li>
-   <li>Chese</li>
+   <li>Cheese</li>
    </ul>
 
 3. Create an **anchor** element inside of _each_ **list item** that you just created in your **unordered list**
