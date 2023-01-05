@@ -84,7 +84,7 @@ Steps are to be completed under the div with `id="exercise3"`
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
 
-<img src="https://www.imdb.com/title/tt0098800/mediaviewer/rm2588701696/?ref_=tt_ov_i" alt= "Fresh Prince of Bel Air">
+<img src="https://m.media-amazon.com/images/M/MV5BOGUxOWQ4MzAtMmJjYS00M2U5LWEwZTAtYTc1YmZhNjg2NDRlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" alt= "Fresh Prince of Bel Air">
 
 
 ## Exercise 4
